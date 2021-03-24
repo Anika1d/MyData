@@ -1,10 +1,9 @@
-    .FIO{
-    color: firebrick;
-    size: A3;
-
+.FIO{
+    color: green;
+}
+p{
+    color:blue;
 }
 h1{
      color: firebrick;
-     size: A3;
-
  }
